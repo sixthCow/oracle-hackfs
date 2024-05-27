@@ -1,0 +1,3 @@
+[submodule "oracle-Lilypad"]
+	path = oracle-Lilypad
+	url = https://github.com/sixthCow/oracle-Lilypad
