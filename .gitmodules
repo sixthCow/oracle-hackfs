@@ -1,3 +1,6 @@
 [submodule "oracle-Lilypad"]
 	path = oracle-Lilypad
 	url = https://github.com/sixthCow/oracle-Lilypad
+[submodule "oracle-Galadriel"]
+	path = oracle-Galadriel
+	url = https://github.com/sixthCow/oracle-Galadriel
